@@ -1,4 +1,4 @@
 # AutoUpdate
 WPFで自分自身を含む更新ファイルの存在をチェックして新しいファイルがあれば更新して再起動するプログラム  
 解説は  
-https://nabehirosoft.blogspot.com/2021/05/wpf.html
+https://www.nabehiro.net/2021/10/c-sharp-autoupdate.html
